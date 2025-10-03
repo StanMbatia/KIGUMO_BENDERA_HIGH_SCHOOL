@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Oct 2025 10:12:06 at https://nyerihigh.sc.ke/index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nyerihigh.sc.ke/index -O1 "C:\Users\Hardware\Desktop\NYERI" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:26	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/backgroundphotos/nyerihigh-logo.jpg (from https://nyerihigh.sc.ke/index)
+10:13:26	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/videos/videos_of_school1.webm (from https://nyerihigh.sc.ke/index)
+10:13:26	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/player.swf (from https://nyerihigh.sc.ke/index)
+10:13:26	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/videos/videos_of_school2.webm (from https://nyerihigh.sc.ke/index)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/student-revision/FORM 3 HOLIDAY REVISION.pdf (from https://nyerihigh.sc.ke/students-assignments)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/img/img-bg/pc---dep-principal.jpg (from https://nyerihigh.sc.ke/about-us)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/videos/nyeri-high-school-jerusalema-dance.mp4 (from https://nyerihigh.sc.ke/about-us)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/videos/nyeri-high-school-jerusalema-dance.webm (from https://nyerihigh.sc.ke/about-us)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/ceurriculum (from https://nyerihigh.sc.ke/our-history)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/img/img-bg/bg-3.jpg (from https://nyerihigh.sc.ke/our-history)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â DRY CEREALS - WHITE MAIZE.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â BUILDING MATERIALS HARDWARE .pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â FRESH CABBAGES.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â POTATOES & GREEN GROCERIES.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â CLEANING MATERIALS, DETERGENT MAKING CHEMICALS AND DISINFECTANT.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â BUILDING &GENERAL MAINTENANCE SERVICES .pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/tenders/2025 SCHOOL SUPPLIES â PRINTED MATERIAL- EXERCISE BOOKS, FOLDERS& ENVELOPES.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/FORM THREE FEES STRUCTURE 2025.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/FORM TWO AND FOUR FEES STRUCTURE 2025.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/SCHOOL NEWSLETTER 2025.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/COMPLETE SCHOOL UNIFORM LIST 2025.pdf (from https://nyerihigh.sc.ke/sch-downloads)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/img/gallery-img/pc-img-6.jpg (from https://nyerihigh.sc.ke/gallery)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/downloads/Form One Uniform List 2024.pdf (from https://nyerihigh.sc.ke/students-uniform)
+10:13:31	Error: 	"Not Found" (404) at link https://nyerihigh.sc.ke/css/owl.video.play.png (from https://nyerihigh.sc.ke/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 167 links scanned, 142 files written (51512673 bytes overall) [50504279 bytes received at 587259 bytes/sec], 1564558 bytes transferred using HTTP compression in 37 files, ratio 27%, 30.1 requests per connection
+(24 errors, 0 warnings, 0 messages)
